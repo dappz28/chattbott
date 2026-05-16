@@ -111,23 +111,49 @@ async function sendMessage(){
 
   input.value = '';
 
-  const response = await fetch('https://chatbot-bert.onrender.com/chat', {
-    method:'POST',
-    headers:{
-      'Content-Type':'application/json'
-    },
-    body: JSON.stringify({
-      message: message
-    })
-  });
+  // loading
+  const loadingDiv = addMessage("AI sedang mengetik...", 'bot');
 
-  const data = await response.json();
+  try{
 
-  addMessage(`
-    ${data.response}
-    <br><br>
-    <small>Similarity: ${data.similarity}%</small>
-  `, 'bot');
+    const response = await fetch('https://chatbot-bert.onrender.com/chat', {
+      method:'POST',
+      headers:{
+        'Content-Type':'application/json'
+      },
+      body: JSON.stringify({
+        message: message
+      })
+    });
+
+    const data = await response.json();
+
+    loadingDiv.remove();
+
+    addMessage(`
+      ${data.response}
+      <br><br>
+      <small>Similarity: ${data.similarity}%</small>
+    `, 'bot');
+
+  }catch(error){
+
+    loadingDiv.remove();
+
+    addMessage(`
+      Gagal terhubung ke AI server 😅
+      <br><br>
+      Kemungkinan:
+      <br>
+      • Backend Render mati/sleep
+      <br>
+      • URL backend salah
+      <br>
+      • Render masih loading model AI
+    `, 'bot');
+
+    console.error(error);
+  }
 }
 
 function addMessage(text, sender){
@@ -141,6 +167,8 @@ function addMessage(text, sender){
   chatBox.appendChild(div);
 
   chatBox.scrollTop = chatBox.scrollHeight;
+
+  return div;
 }
 
 </script>
