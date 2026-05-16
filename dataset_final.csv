@@ -1,0 +1,1330 @@
+﻿id,teks,label,kategori
+1,Dosen memberikan materi pembelajaran melalui LMS universitas.,valid,literasi digital
+2,Literasi digital membantu mahasiswa memilah informasi akademik yang benar.,valid,sumber informasi
+3,Mahasiswa perlu melakukan sitasi untuk menghindari plagiarisme.,valid,pembelajaran digital
+4,Universitas menyediakan pelatihan penggunaan platform pembelajaran digital.,valid,literasi digital
+5,Mahasiswa dianjurkan menggunakan sumber jurnal resmi untuk menyusun tugas akademik.,valid,etika akademik
+6,Penggunaan AI dalam pendidikan harus tetap memperhatikan etika akademik.,valid,kualitas pendidikan
+7,Mahasiswa dianjurkan memverifikasi informasi sebelum membagikannya di media sosial.,valid,kualitas pendidikan
+8,Perpustakaan digital kampus menyediakan akses e-book dan jurnal ilmiah.,valid,plagiarisme
+9,Penggunaan teknologi pembelajaran dapat meningkatkan efektivitas proses belajar.,valid,ai dalam pendidikan
+10,Diskusi daring dapat membantu meningkatkan kolaborasi antar mahasiswa.,valid,pembelajaran digital
+11,Semua website di internet dapat dijadikan sumber ilmiah tanpa verifikasi.,tidak_valid,ai dalam pendidikan
+12,Sitasi tidak penting dalam penulisan karya ilmiah.,tidak_valid,kualitas pendidikan
+13,Informasi hoaks boleh dibagikan jika terlihat menarik.,tidak_valid,pembelajaran digital
+14,Mahasiswa tidak perlu memahami literasi digital dalam perkuliahan.,tidak_valid,lms kampus
+15,Penggunaan AI untuk membuat tugas tanpa pengecekan diperbolehkan sepenuhnya.,tidak_valid,plagiarisme
+16,Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,sumber informasi
+17,Mahasiswa bebas menyalin skripsi orang lain tanpa mencantumkan sumber.,tidak_valid,media pembelajaran
+18,Dosen melarang penggunaan platform digital untuk pembelajaran.,tidak_valid,pembelajaran digital
+19,Mahasiswa tidak perlu mengecek kebenaran berita pendidikan yang diterima.,tidak_valid,lms kampus
+20,Semua informasi dari media sosial pasti benar untuk dijadikan referensi akademik.,tidak_valid,jurnal ilmiah
+21,Saya mendapatkan informasi bahwa Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+22,Saya mendapatkan informasi bahwa Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+23,Apakah informasi ini valid: IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+24,Apakah benar bahwa IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+25,Saya mendapatkan informasi bahwa informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+26,Di grup mahasiswa tertulis bahwa Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+27,Di grup mahasiswa tertulis bahwa Proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+28,Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+29,"Tolong cek informasi ini: Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+30,"Tolong cek informasi ini: Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+31,Bisakah chatbot menilai informasi berikut: situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+32,Mohon bantu periksa: Praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung. Mohon dijelaskan secara singkat.,valid,perkuliahan
+33,Saya mendapatkan informasi bahwa mahasiswa perlu menjaga data pribadi ketika menggunakan layanan digital kampus.,valid,keamanan digital
+34,Ada informasi yang menyatakan bahwa kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+35,Tolong cek informasi ini: password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain.,valid,keamanan digital
+36,"Saya mendapatkan informasi bahwa informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan.",valid,literasi digital
+37,Mohon bantu periksa: Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+38,Benarkah tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+39,Mohon bantu periksa: plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+40,"Apakah informasi ini valid: lMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran.",valid,teknologi pendidikan
+41,Apakah informasi ini valid: tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+42,Bisakah chatbot menilai informasi berikut: Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+43,"Apakah benar bahwa Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik. Mohon dijelaskan secara singkat.",valid,administrasi kampus
+44,Apakah informasi ini valid: Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+45,Saya mendapatkan informasi bahwa tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa.,valid,perkuliahan
+46,"Di grup mahasiswa tertulis bahwa Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+47,Mohon bantu periksa: Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+48,Saya mendapatkan informasi bahwa password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+49,Mohon bantu periksa: kRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester.,valid,layanan akademik
+50,Di grup mahasiswa tertulis bahwa nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+51,Bisakah chatbot menilai informasi berikut: literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya.,valid,literasi digital
+52,Tolong cek informasi ini: mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum.,valid,perkuliahan
+53,Apakah benar bahwa Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan. Mohon dijelaskan secara singkat.,valid,layanan akademik
+54,Apakah informasi ini valid: mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik.,valid,literasi digital
+55,Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus.,valid,ujian dan nilai
+56,Benarkah mahasiswa perlu menjaga data pribadi ketika menggunakan layanan digital kampus.,valid,keamanan digital
+57,Apakah informasi ini valid: Berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya. Mohon dijelaskan secara singkat.,valid,literasi digital
+58,Tolong cek informasi ini: Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+59,"Bisakah chatbot menilai informasi berikut: Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+60,Saya membaca kabar bahwa Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+61,Saya mendapatkan informasi bahwa mahasiswa perlu menggunakan referensi ilmiah dalam penulisan laporan.,valid,sumber belajar
+62,Mohon bantu periksa: informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+63,Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+64,"Apakah benar bahwa asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+65,Saya membaca kabar bahwa Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan. Mohon dijelaskan secara singkat.,valid,informasi kampus
+66,Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+67,Tolong cek informasi ini: Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+68,Saya mendapatkan informasi bahwa Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+69,Mohon bantu periksa: Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+70,Apakah benar bahwa Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+71,Bisakah chatbot menilai informasi berikut: UTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+72,"Ada informasi yang menyatakan bahwa pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa.",valid,teknologi pendidikan
+73,Tolong cek informasi ini: IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+74,"Saya mendapatkan informasi bahwa Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik.",valid,layanan akademik
+75,Saya mendapatkan informasi bahwa UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+76,Saya membaca kabar bahwa literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya.,valid,literasi digital
+77,"Apakah benar bahwa informasi kampus yang benar biasanya memiliki sumber, kontak, dan kanal resmi yang jelas.",valid,literasi digital
+78,"Benarkah organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama.",valid,informasi kampus
+79,Saya mendapatkan informasi bahwa kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi.,valid,keamanan digital
+80,Apakah informasi ini valid: Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+81,Ada informasi yang menyatakan bahwa daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah.,valid,sumber belajar
+82,Apakah benar bahwa mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+83,Apakah informasi ini valid: Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+84,Ada informasi yang menyatakan bahwa Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+85,Mohon bantu periksa: Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+86,Saya membaca kabar bahwa Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+87,Saya membaca kabar bahwa praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung.,valid,perkuliahan
+88,Tolong cek informasi ini: Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+89,Apakah informasi ini valid: mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+90,Benarkah Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum. Mohon dijelaskan secara singkat.,valid,keamanan digital
+91,"Bisakah chatbot menilai informasi berikut: Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+92,Di grup mahasiswa tertulis bahwa mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+93,Di grup mahasiswa tertulis bahwa kHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu.,valid,ujian dan nilai
+94,Tolong cek informasi ini: Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+95,Ada informasi yang menyatakan bahwa Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+96,Benarkah UTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+97,Bisakah chatbot menilai informasi berikut: kHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu.,valid,ujian dan nilai
+98,Apakah benar bahwa KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+99,Saya membaca kabar bahwa KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+100,Saya mendapatkan informasi bahwa Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+101,Apakah benar bahwa tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+102,"Saya mendapatkan informasi bahwa nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain.",valid,ujian dan nilai
+103,"Mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+104,Tolong cek informasi ini: mBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+105,Bisakah chatbot menilai informasi berikut: Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+106,Di grup mahasiswa tertulis bahwa plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+107,Apakah informasi ini valid: Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+108,Saya membaca kabar bahwa tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa.,valid,perkuliahan
+109,Apakah informasi ini valid: Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+110,"Benarkah Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik. Mohon dijelaskan secara singkat.",valid,administrasi kampus
+111,Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+112,Apakah benar bahwa mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data.,valid,administrasi kampus
+113,Tolong cek informasi ini: UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+114,Ada informasi yang menyatakan bahwa mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan.,valid,layanan akademik
+115,Saya mendapatkan informasi bahwa Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya. Mohon dijelaskan secara singkat.,valid,etika akademik
+116,Benarkah Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+117,Saya membaca kabar bahwa Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya. Mohon dijelaskan secara singkat.,valid,literasi digital
+118,Ada informasi yang menyatakan bahwa Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+119,Apakah benar bahwa dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik.,valid,layanan akademik
+120,Saya membaca kabar bahwa Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+121,"Ada informasi yang menyatakan bahwa Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+122,Benarkah Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+123,Bisakah chatbot menilai informasi berikut: Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+124,Apakah benar bahwa Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+125,Ada informasi yang menyatakan bahwa Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+126,"Benarkah kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah.",valid,etika akademik
+127,Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi.,valid,keamanan digital
+128,"Apakah benar bahwa Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik. Mohon dijelaskan secara singkat.",valid,layanan akademik
+129,"Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah.",valid,etika akademik
+130,Saya mendapatkan informasi bahwa tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal.,valid,keamanan digital
+131,Saya membaca kabar bahwa Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+132,Mohon bantu periksa: Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan. Mohon dijelaskan secara singkat.,valid,layanan akademik
+133,Saya membaca kabar bahwa Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+134,Benarkah Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+135,Apakah benar bahwa Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+136,"Ada informasi yang menyatakan bahwa mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+137,Di grup mahasiswa tertulis bahwa Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+138,Saya membaca kabar bahwa mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+139,Mohon bantu periksa: Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+140,"Ada informasi yang menyatakan bahwa Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+141,Di grup mahasiswa tertulis bahwa akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+142,Benarkah Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+143,Ada informasi yang menyatakan bahwa Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+144,Di grup mahasiswa tertulis bahwa kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi.,valid,keamanan digital
+145,Apakah informasi ini valid: mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+146,Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi.,valid,perkuliahan
+147,Tolong cek informasi ini: iPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester.,valid,ujian dan nilai
+148,Di grup mahasiswa tertulis bahwa Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+149,Saya mendapatkan informasi bahwa Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+150,Di grup mahasiswa tertulis bahwa Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+151,Apakah benar bahwa Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+152,Benarkah Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+153,Bisakah chatbot menilai informasi berikut: Parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain. Mohon dijelaskan secara singkat.,valid,etika akademik
+154,Benarkah informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+155,Di grup mahasiswa tertulis bahwa Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+156,Tolong cek informasi ini: plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+157,Bisakah chatbot menilai informasi berikut: mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+158,Bisakah chatbot menilai informasi berikut: tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+159,Mohon bantu periksa: Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+160,"Mohon bantu periksa: organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama.",valid,informasi kampus
+161,Apakah informasi ini valid: mahasiswa perlu menjaga data pribadi ketika menggunakan layanan digital kampus.,valid,keamanan digital
+162,Saya membaca kabar bahwa Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+163,Saya mendapatkan informasi bahwa Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+164,Apakah benar bahwa Daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+165,Saya mendapatkan informasi bahwa Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+166,Saya membaca kabar bahwa Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+167,Daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah.,valid,sumber belajar
+168,Tolong cek informasi ini: Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+169,Saya membaca kabar bahwa mBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+170,Mohon bantu periksa: Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+171,Bisakah chatbot menilai informasi berikut: Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+172,Di grup mahasiswa tertulis bahwa berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya.,valid,literasi digital
+173,Tolong cek informasi ini: Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+174,Benarkah Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+175,"Saya mendapatkan informasi bahwa rPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan.",valid,perkuliahan
+176,Di grup mahasiswa tertulis bahwa Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+177,Mohon bantu periksa: Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+178,Tolong cek informasi ini: Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+179,Saya membaca kabar bahwa Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik. Mohon dijelaskan secara singkat.,valid,literasi digital
+180,"Tolong cek informasi ini: pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+181,"Saya mendapatkan informasi bahwa Informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+182,Ada informasi yang menyatakan bahwa Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+183,"Benarkah Mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara. Mohon dijelaskan secara singkat.",valid,beasiswa
+184,"Mohon bantu periksa: Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+185,Saya membaca kabar bahwa Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+186,Saya mendapatkan informasi bahwa IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+187,Ada informasi yang menyatakan bahwa mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi.,valid,perkuliahan
+188,Apakah informasi ini valid: mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+189,Apakah benar bahwa pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+190,Apakah informasi ini valid: mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+191,Di grup mahasiswa tertulis bahwa mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+192,Apakah benar bahwa mahasiswa perlu menggunakan referensi ilmiah dalam penulisan laporan.,valid,sumber belajar
+193,Benarkah KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+194,Benarkah Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+195,Apakah benar bahwa Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa. Mohon dijelaskan secara singkat.,valid,perkuliahan
+196,Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data.,valid,administrasi kampus
+197,Ada informasi yang menyatakan bahwa portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+198,Bisakah chatbot menilai informasi berikut: Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya. Mohon dijelaskan secara singkat.,valid,literasi digital
+199,"Saya membaca kabar bahwa LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+200,"Benarkah Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan. Mohon dijelaskan secara singkat.",valid,literasi digital
+201,Apakah benar bahwa Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+202,Apakah informasi ini valid: semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+203,Mohon bantu periksa: Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+204,Apakah informasi ini valid: mahasiswa perlu membaca pedoman akademik agar memahami aturan studi.,valid,layanan akademik
+205,Apakah benar bahwa IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+206,"Mohon bantu periksa: rPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan.",valid,perkuliahan
+207,Tolong cek informasi ini: surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+208,Saya mendapatkan informasi bahwa password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+209,"Ada informasi yang menyatakan bahwa Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi. Mohon dijelaskan secara singkat.",valid,penelitian dan skripsi
+210,Di grup mahasiswa tertulis bahwa mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi.,valid,perkuliahan
+211,Saya membaca kabar bahwa mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+212,Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+213,Benarkah uTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+214,Ada informasi yang menyatakan bahwa uAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+215,Di grup mahasiswa tertulis bahwa Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya. Mohon dijelaskan secara singkat.,valid,literasi digital
+216,Ada informasi yang menyatakan bahwa tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal.,valid,keamanan digital
+217,"Apakah informasi ini valid: Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan. Mohon dijelaskan secara singkat.",valid,literasi digital
+218,Apakah benar bahwa akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas.,valid,literasi digital
+219,Benarkah mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan.,valid,layanan akademik
+220,"Di grup mahasiswa tertulis bahwa RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+221,Mohon bantu periksa: UTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+222,Bisakah chatbot menilai informasi berikut: Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+223,"Bisakah chatbot menilai informasi berikut: Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain.",valid,ujian dan nilai
+224,Benarkah sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme.,valid,sumber belajar
+225,Di grup mahasiswa tertulis bahwa tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa.,valid,perkuliahan
+226,"Informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+227,Ada informasi yang menyatakan bahwa transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi.,valid,ujian dan nilai
+228,Bisakah chatbot menilai informasi berikut: Proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+229,Di grup mahasiswa tertulis bahwa Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+230,Di grup mahasiswa tertulis bahwa Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas. Mohon dijelaskan secara singkat.,valid,literasi digital
+231,Di grup mahasiswa tertulis bahwa Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+232,Saya membaca kabar bahwa beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+233,Di grup mahasiswa tertulis bahwa beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+234,Mohon bantu periksa: mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+235,Apakah informasi ini valid: informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+236,Benarkah mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+237,Mohon bantu periksa: Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya. Mohon dijelaskan secara singkat.,valid,etika akademik
+238,Saya mendapatkan informasi bahwa mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+239,Tolong cek informasi ini: tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa.,valid,perkuliahan
+240,Bisakah chatbot menilai informasi berikut: parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain.,valid,etika akademik
+241,"Tolong cek informasi ini: Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan. Mohon dijelaskan secara singkat.",valid,literasi digital
+242,Apakah benar bahwa Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+243,Saya mendapatkan informasi bahwa Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya. Mohon dijelaskan secara singkat.,valid,literasi digital
+244,Saya mendapatkan informasi bahwa Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+245,"Apakah informasi ini valid: asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+246,"Di grup mahasiswa tertulis bahwa Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan. Mohon dijelaskan secara singkat.",valid,literasi digital
+247,Di grup mahasiswa tertulis bahwa mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+248,Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik.,valid,layanan akademik
+249,Tolong cek informasi ini: pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+250,"Apakah informasi ini valid: Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja. Mohon dijelaskan secara singkat.",valid,karier mahasiswa
+251,Bisakah chatbot menilai informasi berikut: mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+252,Mohon bantu periksa: Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+253,Di grup mahasiswa tertulis bahwa Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+254,Benarkah remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+255,Apakah informasi ini valid: KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester. Mohon dijelaskan secara singkat.,valid,layanan akademik
+256,Saya membaca kabar bahwa UTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+257,Mohon bantu periksa: Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+258,Bisakah chatbot menilai informasi berikut: Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+259,Saya mendapatkan informasi bahwa uKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi.,valid,administrasi kampus
+260,Proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+261,"Saya membaca kabar bahwa Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja. Mohon dijelaskan secara singkat.",valid,karier mahasiswa
+262,Mohon bantu periksa: mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum.,valid,keamanan digital
+263,Ada informasi yang menyatakan bahwa Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+264,Mohon bantu periksa: Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+265,"Apakah informasi ini valid: Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+266,Benarkah Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+267,"Saya membaca kabar bahwa portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja.",valid,karier mahasiswa
+268,Ada informasi yang menyatakan bahwa KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+269,Saya mendapatkan informasi bahwa akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas.,valid,literasi digital
+270,Benarkah Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+271,Benarkah Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya. Mohon dijelaskan secara singkat.,valid,etika akademik
+272,Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana.,valid,penelitian dan skripsi
+273,Bisakah chatbot menilai informasi berikut: Password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain. Mohon dijelaskan secara singkat.,valid,keamanan digital
+274,Apakah informasi ini valid: uKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi.,valid,administrasi kampus
+275,Ada informasi yang menyatakan bahwa Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+276,Tolong cek informasi ini: mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+277,"Saya membaca kabar bahwa rPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan.",valid,perkuliahan
+278,Tolong cek informasi ini: mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+279,Bisakah chatbot menilai informasi berikut: Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+280,Bisakah chatbot menilai informasi berikut: Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+281,Bisakah chatbot menilai informasi berikut: kRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester.,valid,layanan akademik
+282,"Ada informasi yang menyatakan bahwa Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+283,Apakah informasi ini valid: Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+284,Ada informasi yang menyatakan bahwa Tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal. Mohon dijelaskan secara singkat.,valid,keamanan digital
+285,Ada informasi yang menyatakan bahwa semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+286,Benarkah semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+287,Apakah informasi ini valid: Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+288,Mohon bantu periksa: Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+289,"Bisakah chatbot menilai informasi berikut: mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+290,Benarkah magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+291,"Mohon bantu periksa: kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah.",valid,etika akademik
+292,Saya mendapatkan informasi bahwa mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+293,Apakah informasi ini valid: iPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester.,valid,ujian dan nilai
+294,Apakah benar bahwa Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+295,Saya membaca kabar bahwa keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+296,Apakah informasi ini valid: Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+297,Tolong cek informasi ini: mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+298,"Tolong cek informasi ini: Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+299,Apakah informasi ini valid: Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+300,"Mohon bantu periksa: pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa.",valid,teknologi pendidikan
+301,Saya membaca kabar bahwa Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+302,Benarkah penggunaan AI dalam tugas akademik tetap harus memperhatikan etika dan pemahaman pribadi.,valid,etika akademik
+303,Tolong cek informasi ini: dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik.,valid,layanan akademik
+304,"Tolong cek informasi ini: RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+305,Ada informasi yang menyatakan bahwa Proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+306,Apakah benar bahwa semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+307,Mohon bantu periksa: Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+308,Benarkah Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+309,"Ada informasi yang menyatakan bahwa pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+310,Apakah benar bahwa nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+311,Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+312,"Tolong cek informasi ini: Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik. Mohon dijelaskan secara singkat.",valid,layanan akademik
+313,Saya membaca kabar bahwa Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+314,"Apakah informasi ini valid: RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+315,Bisakah chatbot menilai informasi berikut: uKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi.,valid,administrasi kampus
+316,Ada informasi yang menyatakan bahwa mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+317,Saya membaca kabar bahwa Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+318,"Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+319,Apakah benar bahwa praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung.,valid,perkuliahan
+320,Tolong cek informasi ini: Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+321,Benarkah mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+322,Saya mendapatkan informasi bahwa mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+323,Berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya.,valid,literasi digital
+324,Di grup mahasiswa tertulis bahwa Password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain. Mohon dijelaskan secara singkat.,valid,keamanan digital
+325,Saya mendapatkan informasi bahwa Jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+326,"Apakah benar bahwa RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+327,Mohon bantu periksa: mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum.,valid,perkuliahan
+328,Ada informasi yang menyatakan bahwa mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+329,Mohon bantu periksa: mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+330,Apakah informasi ini valid: penggunaan AI dalam tugas akademik tetap harus memperhatikan etika dan pemahaman pribadi.,valid,etika akademik
+331,Apakah benar bahwa proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+332,Saya membaca kabar bahwa uAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+333,Apakah benar bahwa Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+334,Saya membaca kabar bahwa nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+335,Mohon bantu periksa: mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik.,valid,literasi digital
+336,"Tolong cek informasi ini: pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa.",valid,teknologi pendidikan
+337,"Benarkah informasi kampus yang benar biasanya memiliki sumber, kontak, dan kanal resmi yang jelas.",valid,literasi digital
+338,Saya membaca kabar bahwa Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+339,Saya membaca kabar bahwa plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+340,Ada informasi yang menyatakan bahwa iPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester.,valid,ujian dan nilai
+341,Di grup mahasiswa tertulis bahwa keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+342,"Ada informasi yang menyatakan bahwa Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+343,Tolong cek informasi ini: Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+344,Di grup mahasiswa tertulis bahwa Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+345,"Saya membaca kabar bahwa Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+346,Benarkah skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana.,valid,penelitian dan skripsi
+347,Tolong cek informasi ini: Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+348,"Bisakah chatbot menilai informasi berikut: rPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan.",valid,perkuliahan
+349,"Tolong cek informasi ini: informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan.",valid,literasi digital
+350,Mohon bantu periksa: mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+351,SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah.,valid,layanan akademik
+352,Saya mendapatkan informasi bahwa Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+353,Apakah informasi ini valid: Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+354,Apakah benar bahwa parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain.,valid,etika akademik
+355,Apakah informasi ini valid: mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+356,Ada informasi yang menyatakan bahwa Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+357,Di grup mahasiswa tertulis bahwa KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester. Mohon dijelaskan secara singkat.,valid,layanan akademik
+358,Tolong cek informasi ini: parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain.,valid,etika akademik
+359,Saya membaca kabar bahwa iPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah.,valid,ujian dan nilai
+360,Tolong cek informasi ini: Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+361,Mohon bantu periksa: Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum. Mohon dijelaskan secara singkat.,valid,keamanan digital
+362,Apakah informasi ini valid: pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+363,Tolong cek informasi ini: Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+364,Saya membaca kabar bahwa presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan.,valid,perkuliahan
+365,"Mohon bantu periksa: asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+366,Apakah informasi ini valid: Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+367,Di grup mahasiswa tertulis bahwa Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+368,Benarkah Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+369,Tolong cek informasi ini: mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data.,valid,administrasi kampus
+370,IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah.,valid,ujian dan nilai
+371,Benarkah kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+372,"Saya mendapatkan informasi bahwa Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+373,"Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan.",valid,literasi digital
+374,Benarkah SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+375,Tolong cek informasi ini: mahasiswa perlu membaca pedoman akademik agar memahami aturan studi.,valid,layanan akademik
+376,Apakah benar bahwa Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+377,"Apakah informasi ini valid: informasi kampus yang benar biasanya memiliki sumber, kontak, dan kanal resmi yang jelas.",valid,literasi digital
+378,Saya mendapatkan informasi bahwa Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+379,Benarkah praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung.,valid,perkuliahan
+380,Ada informasi yang menyatakan bahwa Berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya. Mohon dijelaskan secara singkat.,valid,literasi digital
+381,Apakah benar bahwa Password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain. Mohon dijelaskan secara singkat.,valid,keamanan digital
+382,"Bisakah chatbot menilai informasi berikut: portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik.",valid,layanan akademik
+383,Apakah benar bahwa informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+384,Apakah benar bahwa MBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+385,"Ada informasi yang menyatakan bahwa Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja.",valid,karier mahasiswa
+386,Ada informasi yang menyatakan bahwa mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+387,Apakah informasi ini valid: portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+388,Benarkah mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+389,MBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+390,"Apakah benar bahwa informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+391,Bisakah chatbot menilai informasi berikut: mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+392,Saya mendapatkan informasi bahwa KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+393,Apakah informasi ini valid: mBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+394,"Benarkah Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi. Mohon dijelaskan secara singkat.",valid,penelitian dan skripsi
+395,"Bisakah chatbot menilai informasi berikut: Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+396,Bisakah chatbot menilai informasi berikut: iPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester.,valid,ujian dan nilai
+397,Saya mendapatkan informasi bahwa Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+398,Benarkah Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+399,Ada informasi yang menyatakan bahwa Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+400,Tolong cek informasi ini: mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum.,valid,keamanan digital
+401,Benarkah Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+402,Saya membaca kabar bahwa Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+403,Saya mendapatkan informasi bahwa penggunaan AI dalam tugas akademik tetap harus memperhatikan etika dan pemahaman pribadi.,valid,etika akademik
+404,Ada informasi yang menyatakan bahwa Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+405,Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum.,valid,keamanan digital
+406,Apakah benar bahwa akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+407,Apakah benar bahwa mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik.,valid,literasi digital
+408,Apakah benar bahwa Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan. Mohon dijelaskan secara singkat.,valid,informasi kampus
+409,Apakah benar bahwa Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+410,Tolong cek informasi ini: Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+411,Apakah informasi ini valid: Mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum. Mohon dijelaskan secara singkat.,valid,perkuliahan
+412,Apakah informasi ini valid: mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum.,valid,keamanan digital
+413,Bisakah chatbot menilai informasi berikut: UAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+414,Bisakah chatbot menilai informasi berikut: Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas. Mohon dijelaskan secara singkat.,valid,literasi digital
+415,"Tolong cek informasi ini: Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+416,Ada informasi yang menyatakan bahwa password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain.,valid,keamanan digital
+417,Apakah informasi ini valid: Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+418,Ada informasi yang menyatakan bahwa Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+419,Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme.,valid,sumber belajar
+420,Ada informasi yang menyatakan bahwa Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+421,Saya membaca kabar bahwa cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus.,valid,administrasi kampus
+422,Saya mendapatkan informasi bahwa mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+423,Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+424,Benarkah mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum.,valid,perkuliahan
+425,Apakah benar bahwa informasi kelas pengganti sebaiknya dikonfirmasi kepada dosen pengampu atau program studi.,valid,perkuliahan
+426,Saya membaca kabar bahwa magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+427,Tolong cek informasi ini: Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+428,KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester.,valid,layanan akademik
+429,Apakah informasi ini valid: Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+430,Ada informasi yang menyatakan bahwa diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi.,valid,perkuliahan
+431,Di grup mahasiswa tertulis bahwa mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan.,valid,layanan akademik
+432,Tolong cek informasi ini: Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+433,Apakah informasi ini valid: Praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung. Mohon dijelaskan secara singkat.,valid,perkuliahan
+434,Saya membaca kabar bahwa Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+435,"Saya membaca kabar bahwa Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik. Mohon dijelaskan secara singkat.",valid,layanan akademik
+436,Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+437,Bisakah chatbot menilai informasi berikut: password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+438,Tolong cek informasi ini: kRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester.,valid,layanan akademik
+439,Saya mendapatkan informasi bahwa Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+440,Bisakah chatbot menilai informasi berikut: jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+441,Di grup mahasiswa tertulis bahwa Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+442,UAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+443,"Saya mendapatkan informasi bahwa Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+444,Benarkah Jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+445,Benarkah situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+446,Saya mendapatkan informasi bahwa pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+447,Apakah informasi ini valid: pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+448,Saya membaca kabar bahwa informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+449,Apakah informasi ini valid: Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+450,"Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama.",valid,informasi kampus
+451,Bisakah chatbot menilai informasi berikut: mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+452,Apakah benar bahwa Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+453,Tolong cek informasi ini: nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+454,Ada informasi yang menyatakan bahwa mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+455,Apakah informasi ini valid: Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+456,Saya membaca kabar bahwa surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+457,Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+458,Saya mendapatkan informasi bahwa mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+459,Ada informasi yang menyatakan bahwa Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+460,Saya mendapatkan informasi bahwa mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik.,valid,literasi digital
+461,Semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+462,Tolong cek informasi ini: Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+463,Bisakah chatbot menilai informasi berikut: Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+464,Apakah informasi ini valid: password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain.,valid,keamanan digital
+465,"Mohon bantu periksa: mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+466,"Bisakah chatbot menilai informasi berikut: Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+467,Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan.,valid,layanan akademik
+468,Bisakah chatbot menilai informasi berikut: plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+469,Saya membaca kabar bahwa berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya.,valid,literasi digital
+470,"Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa.",valid,teknologi pendidikan
+471,Ada informasi yang menyatakan bahwa Daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+472,Di grup mahasiswa tertulis bahwa Tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal. Mohon dijelaskan secara singkat.,valid,keamanan digital
+473,Apakah benar bahwa Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+474,Bisakah chatbot menilai informasi berikut: transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi.,valid,ujian dan nilai
+475,Saya membaca kabar bahwa akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+476,Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+477,"Bisakah chatbot menilai informasi berikut: Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+478,Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik.,valid,literasi digital
+479,Saya membaca kabar bahwa kHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu.,valid,ujian dan nilai
+480,Saya mendapatkan informasi bahwa mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+481,Saya mendapatkan informasi bahwa mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+482,Saya membaca kabar bahwa Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+483,Apakah benar bahwa mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+484,Benarkah diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi.,valid,perkuliahan
+485,Saya membaca kabar bahwa Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan. Mohon dijelaskan secara singkat.,valid,layanan akademik
+486,Apakah benar bahwa KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester. Mohon dijelaskan secara singkat.,valid,layanan akademik
+487,"Mohon bantu periksa: LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+488,Tolong cek informasi ini: Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+489,Apakah benar bahwa penggunaan AI dalam tugas akademik tetap harus memperhatikan etika dan pemahaman pribadi.,valid,etika akademik
+490,"Apakah benar bahwa silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+491,Apakah informasi ini valid: informasi kelas pengganti sebaiknya dikonfirmasi kepada dosen pengampu atau program studi.,valid,perkuliahan
+492,Ada informasi yang menyatakan bahwa Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+493,Mohon bantu periksa: Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan. Mohon dijelaskan secara singkat.,valid,informasi kampus
+494,Apakah informasi ini valid: mahasiswa perlu menggunakan referensi ilmiah dalam penulisan laporan.,valid,sumber belajar
+495,Ada informasi yang menyatakan bahwa Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+496,Saya membaca kabar bahwa dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik.,valid,layanan akademik
+497,Ada informasi yang menyatakan bahwa Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+498,Saya membaca kabar bahwa Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+499,Ada informasi yang menyatakan bahwa nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+500,"Mohon bantu periksa: Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+501,Benarkah mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+502,Tolong cek informasi ini: akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas.,valid,literasi digital
+503,"Mohon bantu periksa: Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik. Mohon dijelaskan secara singkat.",valid,layanan akademik
+504,Saya mendapatkan informasi bahwa Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+505,Ada informasi yang menyatakan bahwa IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+506,Apakah informasi ini valid: proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+507,Mohon bantu periksa: mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+508,Apakah informasi ini valid: sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme.,valid,sumber belajar
+509,Mohon bantu periksa: Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+510,Saya mendapatkan informasi bahwa Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+511,"Apakah benar bahwa organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama.",valid,informasi kampus
+512,"Saya membaca kabar bahwa lMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran.",valid,teknologi pendidikan
+513,Benarkah uAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+514,Tolong cek informasi ini: mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+515,Di grup mahasiswa tertulis bahwa Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+516,Mohon bantu periksa: UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+517,Ada informasi yang menyatakan bahwa presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan.,valid,perkuliahan
+518,Apakah benar bahwa Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+519,Tolong cek informasi ini: Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas. Mohon dijelaskan secara singkat.,valid,literasi digital
+520,Tolong cek informasi ini: Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya. Mohon dijelaskan secara singkat.,valid,literasi digital
+521,Jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+522,Benarkah jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+523,Mohon bantu periksa: Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+524,Saya mendapatkan informasi bahwa Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+525,Parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain.,valid,etika akademik
+526,Saya membaca kabar bahwa semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+527,Apakah benar bahwa cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus.,valid,administrasi kampus
+528,Apakah benar bahwa Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+529,Di grup mahasiswa tertulis bahwa informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+530,"Apakah informasi ini valid: Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik. Mohon dijelaskan secara singkat.",valid,layanan akademik
+531,Saya mendapatkan informasi bahwa IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+532,Di grup mahasiswa tertulis bahwa Mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+533,Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+534,Benarkah Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa. Mohon dijelaskan secara singkat.,valid,perkuliahan
+535,Apakah informasi ini valid: Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+536,Mohon bantu periksa: Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+537,"Saya mendapatkan informasi bahwa Mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+538,Mohon bantu periksa: mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+539,Apakah informasi ini valid: nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+540,Mohon bantu periksa: Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+541,Saya mendapatkan informasi bahwa mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+542,"Portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik.",valid,layanan akademik
+543,Apakah benar bahwa mahasiswa perlu membaca pedoman akademik agar memahami aturan studi.,valid,layanan akademik
+544,Tolong cek informasi ini: tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal.,valid,keamanan digital
+545,Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi.,valid,ujian dan nilai
+546,Bisakah chatbot menilai informasi berikut: Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+547,"Saya membaca kabar bahwa dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+548,Saya mendapatkan informasi bahwa Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+549,Tolong cek informasi ini: informasi kelas pengganti sebaiknya dikonfirmasi kepada dosen pengampu atau program studi.,valid,perkuliahan
+550,Apakah benar bahwa mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+551,Benarkah mahasiswa perlu membaca pedoman akademik agar memahami aturan studi.,valid,layanan akademik
+552,Bisakah chatbot menilai informasi berikut: Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+553,Apakah benar bahwa Parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain. Mohon dijelaskan secara singkat.,valid,etika akademik
+554,Saya membaca kabar bahwa Praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung. Mohon dijelaskan secara singkat.,valid,perkuliahan
+555,Apakah benar bahwa berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya.,valid,literasi digital
+556,Mohon bantu periksa: proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+557,Ada informasi yang menyatakan bahwa berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya.,valid,literasi digital
+558,Apakah informasi ini valid: UAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+559,Di grup mahasiswa tertulis bahwa SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+560,Ada informasi yang menyatakan bahwa Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+561,Apakah informasi ini valid: password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+562,Benarkah pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+563,Apakah benar bahwa Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+564,Tolong cek informasi ini: Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik. Mohon dijelaskan secara singkat.,valid,literasi digital
+565,Ada informasi yang menyatakan bahwa IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+566,Benarkah Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+567,Tolong cek informasi ini: mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+568,Saya membaca kabar bahwa Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+569,Benarkah kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi.,valid,keamanan digital
+570,Apakah informasi ini valid: Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+571,"Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+572,Saya membaca kabar bahwa Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+573,Apakah benar bahwa mahasiswa perlu menjaga data pribadi ketika menggunakan layanan digital kampus.,valid,keamanan digital
+574,Apakah benar bahwa Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum. Mohon dijelaskan secara singkat.,valid,keamanan digital
+575,Apakah informasi ini valid: Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+576,"Tolong cek informasi ini: Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik. Mohon dijelaskan secara singkat.",valid,administrasi kampus
+577,Saya membaca kabar bahwa mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus.,valid,ujian dan nilai
+578,Di grup mahasiswa tertulis bahwa Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+579,Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+580,Bisakah chatbot menilai informasi berikut: kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+581,Saya mendapatkan informasi bahwa Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+582,Ada informasi yang menyatakan bahwa Mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum. Mohon dijelaskan secara singkat.,valid,perkuliahan
+583,Apakah benar bahwa plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+584,Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+585,Saya membaca kabar bahwa Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+586,Di grup mahasiswa tertulis bahwa Parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain. Mohon dijelaskan secara singkat.,valid,etika akademik
+587,Tolong cek informasi ini: KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+588,"Ada informasi yang menyatakan bahwa organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama.",valid,informasi kampus
+589,Tolong cek informasi ini: penggunaan AI dalam tugas akademik tetap harus memperhatikan etika dan pemahaman pribadi.,valid,etika akademik
+590,Ada informasi yang menyatakan bahwa Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+591,Saya mendapatkan informasi bahwa mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+592,Bisakah chatbot menilai informasi berikut: Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+593,"Saya mendapatkan informasi bahwa dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+594,Mohon bantu periksa: mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi.,valid,perkuliahan
+595,Apakah informasi ini valid: Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+596,Apakah informasi ini valid: Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+597,Apakah informasi ini valid: Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+598,Tolong cek informasi ini: Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+599,Apakah informasi ini valid: cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus.,valid,administrasi kampus
+600,Benarkah mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+601,Mohon bantu periksa: semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+602,Benarkah Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+603,Saya membaca kabar bahwa Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas. Mohon dijelaskan secara singkat.,valid,literasi digital
+604,Ada informasi yang menyatakan bahwa SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+605,"Saya mendapatkan informasi bahwa Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+606,Mohon bantu periksa: Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+607,Di grup mahasiswa tertulis bahwa Jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+608,Ada informasi yang menyatakan bahwa pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+609,Mohon bantu periksa: semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+610,Mohon bantu periksa: password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+611,Saya mendapatkan informasi bahwa daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah.,valid,sumber belajar
+612,Bisakah chatbot menilai informasi berikut: Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+613,"Apakah benar bahwa kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah.",valid,etika akademik
+614,"Apakah benar bahwa Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum. Mohon dijelaskan secara singkat.",valid,perkuliahan
+615,Di grup mahasiswa tertulis bahwa Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+616,Tolong cek informasi ini: Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+617,"Ada informasi yang menyatakan bahwa Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+618,Semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+619,Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus.,valid,administrasi kampus
+620,Bisakah chatbot menilai informasi berikut: Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa. Mohon dijelaskan secara singkat.,valid,perkuliahan
+621,Di grup mahasiswa tertulis bahwa cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus.,valid,administrasi kampus
+622,Saya mendapatkan informasi bahwa mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus.,valid,ujian dan nilai
+623,Di grup mahasiswa tertulis bahwa Berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya. Mohon dijelaskan secara singkat.,valid,literasi digital
+624,Di grup mahasiswa tertulis bahwa Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+625,Benarkah Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+626,"LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran.",valid,teknologi pendidikan
+627,Di grup mahasiswa tertulis bahwa Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik. Mohon dijelaskan secara singkat.,valid,literasi digital
+628,Benarkah Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+629,"RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan.",valid,perkuliahan
+630,Apakah informasi ini valid: Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+631,Saya membaca kabar bahwa portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+632,Bisakah chatbot menilai informasi berikut: Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik. Mohon dijelaskan secara singkat.,valid,literasi digital
+633,Benarkah mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum.,valid,keamanan digital
+634,Benarkah IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+635,"Tolong cek informasi ini: Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja. Mohon dijelaskan secara singkat.",valid,karier mahasiswa
+636,Apakah informasi ini valid: Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+637,Apakah benar bahwa SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+638,Di grup mahasiswa tertulis bahwa Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+639,Saya mendapatkan informasi bahwa Berita yang hanya berasal dari pesan berantai perlu diperiksa ulang sebelum dipercaya. Mohon dijelaskan secara singkat.,valid,literasi digital
+640,Saya mendapatkan informasi bahwa Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+641,Mohon bantu periksa: Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas. Mohon dijelaskan secara singkat.,valid,literasi digital
+642,Di grup mahasiswa tertulis bahwa Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+643,Bisakah chatbot menilai informasi berikut: Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+644,Apakah benar bahwa Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+645,Apakah informasi ini valid: Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+646,"Tolong cek informasi ini: Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum. Mohon dijelaskan secara singkat.",valid,perkuliahan
+647,Saya membaca kabar bahwa Mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum. Mohon dijelaskan secara singkat.,valid,perkuliahan
+648,Ada informasi yang menyatakan bahwa sKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah.,valid,layanan akademik
+649,Di grup mahasiswa tertulis bahwa Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+650,Apakah benar bahwa Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+651,Benarkah mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+652,"Benarkah silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+653,Mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum.,valid,perkuliahan
+654,Saya membaca kabar bahwa Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+655,Mohon bantu periksa: KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+656,Di grup mahasiswa tertulis bahwa Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+657,"Tolong cek informasi ini: LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+658,Apakah informasi ini valid: SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+659,"Benarkah Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+660,Saya membaca kabar bahwa skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana.,valid,penelitian dan skripsi
+661,Benarkah herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif.,valid,administrasi kampus
+662,"Apakah benar bahwa informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan.",valid,literasi digital
+663,Apakah benar bahwa mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+664,Saya membaca kabar bahwa Jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+665,Mohon bantu periksa: Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+666,Saya mendapatkan informasi bahwa Mahasiswa perlu membandingkan informasi dari beberapa sumber sebelum mengambil keputusan akademik. Mohon dijelaskan secara singkat.,valid,literasi digital
+667,Bisakah chatbot menilai informasi berikut: Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+668,"Saya mendapatkan informasi bahwa kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah.",valid,etika akademik
+669,Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan.,valid,perkuliahan
+670,KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu.,valid,ujian dan nilai
+671,Apakah benar bahwa semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+672,Saya mendapatkan informasi bahwa password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain.,valid,keamanan digital
+673,"Bisakah chatbot menilai informasi berikut: informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+674,Mohon bantu periksa: Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+675,Ada informasi yang menyatakan bahwa Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+676,Saya mendapatkan informasi bahwa Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+677,Saya membaca kabar bahwa kRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester.,valid,layanan akademik
+678,Saya membaca kabar bahwa Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+679,Di grup mahasiswa tertulis bahwa kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+680,Benarkah Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+681,Saya mendapatkan informasi bahwa semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+682,"Apakah benar bahwa Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+683,Bisakah chatbot menilai informasi berikut: mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data.,valid,administrasi kampus
+684,Di grup mahasiswa tertulis bahwa Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa. Mohon dijelaskan secara singkat.,valid,perkuliahan
+685,"Apakah informasi ini valid: LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+686,Apakah benar bahwa herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif.,valid,administrasi kampus
+687,Ada informasi yang menyatakan bahwa Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+688,Benarkah Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+689,Di grup mahasiswa tertulis bahwa Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+690,Bisakah chatbot menilai informasi berikut: Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+691,Ada informasi yang menyatakan bahwa mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+692,Di grup mahasiswa tertulis bahwa Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+693,Bisakah chatbot menilai informasi berikut: Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+694,Mohon bantu periksa: mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+695,"Mohon bantu periksa: Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum. Mohon dijelaskan secara singkat.",valid,perkuliahan
+696,"Di grup mahasiswa tertulis bahwa Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+697,Tolong cek informasi ini: SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+698,"Di grup mahasiswa tertulis bahwa Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+699,Saya mendapatkan informasi bahwa mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data.,valid,administrasi kampus
+700,Di grup mahasiswa tertulis bahwa uAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai.,valid,ujian dan nilai
+701,Di grup mahasiswa tertulis bahwa presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan.,valid,perkuliahan
+702,Di grup mahasiswa tertulis bahwa dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik.,valid,layanan akademik
+703,Saya mendapatkan informasi bahwa Praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung. Mohon dijelaskan secara singkat.,valid,perkuliahan
+704,Di grup mahasiswa tertulis bahwa Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+705,Benarkah password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+706,"Saya mendapatkan informasi bahwa Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+707,Benarkah mahasiswa baru biasanya mengikuti kegiatan pengenalan kampus untuk memahami lingkungan akademik dan aturan perkuliahan.,valid,informasi kampus
+708,Apakah informasi ini valid: Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+709,Tolong cek informasi ini: IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+710,Apakah benar bahwa mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik.,tidak_valid,hoaks akademik
+711,Apakah benar bahwa UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+712,Apakah informasi ini valid: skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana.,valid,penelitian dan skripsi
+713,Password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain.,valid,keamanan digital
+714,Apakah informasi ini valid: mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+715,Ada informasi yang menyatakan bahwa keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+716,Apakah benar bahwa Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+717,Pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+718,Literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya.,valid,literasi digital
+719,"Bisakah chatbot menilai informasi berikut: portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja.",valid,karier mahasiswa
+720,Tolong cek informasi ini: mahasiswa perlu menjaga data pribadi ketika menggunakan layanan digital kampus.,valid,keamanan digital
+721,Saya mendapatkan informasi bahwa Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+722,Mohon bantu periksa: pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+723,Apakah benar bahwa Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+724,Tolong cek informasi ini: mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi.,valid,perkuliahan
+725,"Tolong cek informasi ini: Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+726,Saya membaca kabar bahwa Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+727,Mohon bantu periksa: magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+728,"Saya mendapatkan informasi bahwa Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain. Mohon dijelaskan secara singkat.",valid,ujian dan nilai
+729,Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+730,Tolong cek informasi ini: informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+731,Ada informasi yang menyatakan bahwa uTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+732,Apakah benar bahwa Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+733,Di grup mahasiswa tertulis bahwa pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+734,Bisakah chatbot menilai informasi berikut: semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+735,"Benarkah dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+736,"Di grup mahasiswa tertulis bahwa Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi. Mohon dijelaskan secara singkat.",valid,penelitian dan skripsi
+737,Di grup mahasiswa tertulis bahwa uTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+738,Apakah informasi ini valid: Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+739,Di grup mahasiswa tertulis bahwa tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal.,valid,keamanan digital
+740,"Di grup mahasiswa tertulis bahwa lMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran.",valid,teknologi pendidikan
+741,Saya mendapatkan informasi bahwa informasi kelas pengganti sebaiknya dikonfirmasi kepada dosen pengampu atau program studi.,valid,perkuliahan
+742,Tolong cek informasi ini: Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+743,Tolong cek informasi ini: pengumuman akademik dari screenshot tanpa sumber resmi dapat langsung dipercaya.,tidak_valid,hoaks digital
+744,Ada informasi yang menyatakan bahwa Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+745,Bisakah chatbot menilai informasi berikut: Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+746,Saya mendapatkan informasi bahwa iPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah.,valid,ujian dan nilai
+747,Di grup mahasiswa tertulis bahwa Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+748,Mohon bantu periksa: UAS adalah Ujian Akhir Semester yang digunakan untuk mengevaluasi pemahaman mahasiswa setelah perkuliahan selesai. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+749,IPS adalah Indeks Prestasi Semester yang menunjukkan capaian nilai mahasiswa dalam satu semester.,valid,ujian dan nilai
+750,Apakah informasi ini valid: transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi.,valid,ujian dan nilai
+751,Saya mendapatkan informasi bahwa Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+752,Bisakah chatbot menilai informasi berikut: skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana.,valid,penelitian dan skripsi
+753,Apakah informasi ini valid: Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+754,Tolong cek informasi ini: Proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+755,Tolong cek informasi ini: Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+756,Apakah benar bahwa pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+757,Bisakah chatbot menilai informasi berikut: Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+758,Saya mendapatkan informasi bahwa surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+759,Ada informasi yang menyatakan bahwa Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+760,Ada informasi yang menyatakan bahwa UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+761,Mohon bantu periksa: Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+762,Mohon bantu periksa: Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+763,Saya mendapatkan informasi bahwa mahasiswa perlu membaca pedoman akademik agar memahami aturan studi.,valid,layanan akademik
+764,Di grup mahasiswa tertulis bahwa Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+765,UTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+766,Di grup mahasiswa tertulis bahwa semua informasi viral tentang kampus pasti benar karena banyak dibagikan.,tidak_valid,literasi digital
+767,Saya membaca kabar bahwa Keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+768,Apakah benar bahwa Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+769,Tolong cek informasi ini: Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+770,Di grup mahasiswa tertulis bahwa Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+771,Saya membaca kabar bahwa Mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+772,Ada informasi yang menyatakan bahwa Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+773,"Di grup mahasiswa tertulis bahwa Informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+774,Benarkah keterlambatan pengumpulan tugas dapat memengaruhi penilaian jika aturan tersebut tercantum dalam ketentuan mata kuliah.,valid,ujian dan nilai
+775,Apakah benar bahwa plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+776,Apakah benar bahwa Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+777,Apakah informasi ini valid: situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+778,Apakah benar bahwa Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya. Mohon dijelaskan secara singkat.,valid,etika akademik
+779,Mohon bantu periksa: password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+780,"Di grup mahasiswa tertulis bahwa Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja. Mohon dijelaskan secara singkat.",valid,karier mahasiswa
+781,Mohon bantu periksa: Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+782,Mohon bantu periksa: situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+783,Di grup mahasiswa tertulis bahwa Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+784,Apakah benar bahwa password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+785,Tolong cek informasi ini: Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+786,Di grup mahasiswa tertulis bahwa IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+787,Mohon bantu periksa: Skripsi merupakan karya ilmiah mahasiswa yang disusun sebagai salah satu syarat penyelesaian studi sarjana. Mohon dijelaskan secara singkat.,valid,penelitian dan skripsi
+788,Apakah informasi ini valid: Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum. Mohon dijelaskan secara singkat.,valid,keamanan digital
+789,Ada informasi yang menyatakan bahwa Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+790,Bisakah chatbot menilai informasi berikut: sKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah.,valid,layanan akademik
+791,Saya mendapatkan informasi bahwa Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+792,Benarkah Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+793,"Apakah informasi ini valid: Pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+794,Mohon bantu periksa: Mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum. Mohon dijelaskan secara singkat.,valid,perkuliahan
+795,Mohon bantu periksa: Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+796,"Di grup mahasiswa tertulis bahwa Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+797,Di grup mahasiswa tertulis bahwa Cuti akademik adalah izin berhenti sementara dari kegiatan perkuliahan sesuai ketentuan kampus. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+798,"Apakah informasi ini valid: nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain.",valid,ujian dan nilai
+799,Apakah informasi ini valid: Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+800,Saya membaca kabar bahwa sKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah.,valid,layanan akademik
+801,Saya mendapatkan informasi bahwa Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+802,"Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+803,Apakah informasi ini valid: mata kuliah pilihan adalah mata kuliah yang dapat dipilih mahasiswa sesuai minat dan ketentuan kurikulum.,valid,perkuliahan
+804,Saya membaca kabar bahwa akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas.,valid,literasi digital
+805,Saya membaca kabar bahwa Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+806,Mohon bantu periksa: KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester. Mohon dijelaskan secara singkat.,valid,layanan akademik
+807,Apakah benar bahwa Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+808,Apakah informasi ini valid: beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+809,Saya mendapatkan informasi bahwa Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan. Mohon dijelaskan secara singkat.,valid,layanan akademik
+810,Apakah informasi ini valid: IPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+811,Apakah informasi ini valid: mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+812,Saya mendapatkan informasi bahwa akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+813,Saya mendapatkan informasi bahwa KRS adalah Kartu Rencana Studi yang berisi daftar mata kuliah yang diambil mahasiswa pada satu semester. Mohon dijelaskan secara singkat.,valid,layanan akademik
+814,Bisakah chatbot menilai informasi berikut: Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+815,Benarkah Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+816,Benarkah password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+817,Benarkah Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+818,Mohon bantu periksa: Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+819,Bisakah chatbot menilai informasi berikut: mBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+820,Benarkah Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+821,Apakah informasi ini valid: Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan. Mohon dijelaskan secara singkat.,valid,karier mahasiswa
+822,Bisakah chatbot menilai informasi berikut: Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+823,Apakah benar bahwa Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+824,Di grup mahasiswa tertulis bahwa mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+825,Tolong cek informasi ini: Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+826,Bisakah chatbot menilai informasi berikut: Kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+827,Di grup mahasiswa tertulis bahwa Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+828,Di grup mahasiswa tertulis bahwa Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+829,"Ada informasi yang menyatakan bahwa Informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan. Mohon dijelaskan secara singkat.",valid,literasi digital
+830,Benarkah surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+831,Apakah informasi ini valid: KHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+832,Benarkah mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus.,valid,ujian dan nilai
+833,Saya mendapatkan informasi bahwa Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+834,Bisakah chatbot menilai informasi berikut: iPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah.,valid,ujian dan nilai
+835,"Apakah benar bahwa Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+836,Apakah benar bahwa informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+837,Akun resmi kampus biasanya memiliki identitas yang jelas dan terhubung dengan kanal resmi universitas.,valid,literasi digital
+838,Benarkah mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal.,tidak_valid,etika akademik
+839,Apakah informasi ini valid: semua pengumuman kampus dari akun anonim dapat langsung dipercaya.,tidak_valid,hoaks digital
+840,"Apakah informasi ini valid: Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+841,Tolong cek informasi ini: daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah.,valid,sumber belajar
+842,Benarkah literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya.,valid,literasi digital
+843,"Saya mendapatkan informasi bahwa lMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran.",valid,teknologi pendidikan
+844,Bisakah chatbot menilai informasi berikut: SKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah. Mohon dijelaskan secara singkat.,valid,layanan akademik
+845,Apakah benar bahwa Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+846,"Benarkah Kejujuran akademik diperlukan dalam ujian, tugas, praktikum, dan penulisan karya ilmiah. Mohon dijelaskan secara singkat.",valid,etika akademik
+847,"Saya mendapatkan informasi bahwa Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+848,Benarkah beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+849,"Apakah informasi ini valid: Pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik. Mohon dijelaskan secara singkat.",valid,administrasi kampus
+850,"Apakah benar bahwa Dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi. Mohon dijelaskan secara singkat.",valid,penelitian dan skripsi
+851,Saya mendapatkan informasi bahwa Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+852,Saya mendapatkan informasi bahwa Mahasiswa perlu logout dari akun akademik setelah menggunakan komputer umum. Mohon dijelaskan secara singkat.,valid,keamanan digital
+853,Apakah benar bahwa Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+854,Benarkah portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+855,"Apakah informasi ini valid: dosen pembimbing skripsi membantu mahasiswa dalam proses penyusunan, perbaikan, dan penyelesaian skripsi.",valid,penelitian dan skripsi
+856,"Saya membaca kabar bahwa silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+857,Ada informasi yang menyatakan bahwa proposal penelitian digunakan untuk menjelaskan rencana penelitian sebelum pelaksanaan penelitian dilakukan.,valid,penelitian dan skripsi
+858,Bisakah chatbot menilai informasi berikut: Mahasiswa perlu membaca modul atau bahan ajar sebelum mengikuti perkuliahan agar lebih siap memahami materi.,valid,perkuliahan
+859,Di grup mahasiswa tertulis bahwa parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain.,valid,etika akademik
+860,Apakah informasi ini valid: jurnal ilmiah dapat digunakan sebagai referensi akademik karena memuat hasil penelitian yang telah dikaji secara ilmiah.,valid,sumber belajar
+861,"Saya membaca kabar bahwa portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik.",valid,layanan akademik
+862,Di grup mahasiswa tertulis bahwa MBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+863,"Portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja.",valid,karier mahasiswa
+864,Apakah benar bahwa mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+865,Di grup mahasiswa tertulis bahwa situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+866,"Saya membaca kabar bahwa mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+867,Tolong cek informasi ini: presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan.,valid,perkuliahan
+868,Tolong cek informasi ini: kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+869,"Saya mendapatkan informasi bahwa RPS atau Rencana Pembelajaran Semester berisi rencana pembelajaran, capaian, materi, dan evaluasi perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+870,Ada informasi yang menyatakan bahwa Mata kuliah wajib adalah mata kuliah yang harus ditempuh mahasiswa sesuai kurikulum program studi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+871,Apakah benar bahwa Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+872,Ada informasi yang menyatakan bahwa plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu.,tidak_valid,etika akademik
+873,"Saya mendapatkan informasi bahwa portofolio dapat membantu mahasiswa menunjukkan pengalaman, proyek, dan keterampilan kepada calon pemberi kerja.",valid,karier mahasiswa
+874,Bisakah chatbot menilai informasi berikut: diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi.,valid,perkuliahan
+875,Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi.,valid,perkuliahan
+876,Benarkah mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus.,tidak_valid,etika akademik
+877,Tolong cek informasi ini: mahasiswa perlu menggunakan referensi ilmiah dalam penulisan laporan.,valid,sumber belajar
+878,"Apakah informasi ini valid: Informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi. Mohon dijelaskan secara singkat.",valid,beasiswa
+879,Mohon bantu periksa: Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+880,Benarkah akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+881,Saya membaca kabar bahwa Mahasiswa perlu memperbarui data pribadi melalui sistem resmi kampus jika terjadi perubahan data. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+882,Ada informasi yang menyatakan bahwa MBKM memberikan kesempatan mahasiswa untuk belajar di luar program studi melalui kegiatan yang diakui sesuai ketentuan.,valid,karier mahasiswa
+883,Di grup mahasiswa tertulis bahwa Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+884,Tolong cek informasi ini: tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+885,Mohon bantu periksa: informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+886,Benarkah daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah.,valid,sumber belajar
+887,Apakah benar bahwa Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+888,Di grup mahasiswa tertulis bahwa tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya.,tidak_valid,etika akademik
+889,Benarkah Mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+890,"Di grup mahasiswa tertulis bahwa nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain.",valid,ujian dan nilai
+891,Tolong cek informasi ini: Beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+892,"Benarkah pengumuman akademik resmi biasanya disampaikan melalui website kampus, fakultas, program studi, atau portal akademik.",valid,administrasi kampus
+893,Saya mendapatkan informasi bahwa Tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal. Mohon dijelaskan secara singkat.,valid,keamanan digital
+894,Benarkah informasi bantuan pendidikan yang meminta transfer ke rekening pribadi pasti resmi.,tidak_valid,hoaks beasiswa
+895,Apakah benar bahwa iPK adalah Indeks Prestasi Kumulatif yang menunjukkan rata-rata prestasi akademik mahasiswa selama kuliah.,valid,ujian dan nilai
+896,"Mohon bantu periksa: portal akademik digunakan mahasiswa untuk mengakses layanan seperti KRS, KHS, jadwal kuliah, dan informasi akademik.",valid,layanan akademik
+897,Di grup mahasiswa tertulis bahwa Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+898,Ada informasi yang menyatakan bahwa Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+899,Saya membaca kabar bahwa Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+900,Ada informasi yang menyatakan bahwa mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+901,Ada informasi yang menyatakan bahwa mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan.,tidak_valid,literasi digital
+902,Saya membaca kabar bahwa herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif.,valid,administrasi kampus
+903,Magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+904,Di grup mahasiswa tertulis bahwa Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+905,Tolong cek informasi ini: mahasiswa dapat mengabaikan aturan sitasi selama tugas terlihat rapi.,tidak_valid,etika akademik
+906,"Saya membaca kabar bahwa informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+907,Saya membaca kabar bahwa plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+908,"Apakah benar bahwa Informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi. Mohon dijelaskan secara singkat.",valid,beasiswa
+909,Ada informasi yang menyatakan bahwa Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+910,"Apakah benar bahwa LMS dapat digunakan untuk mengakses materi, mengumpulkan tugas, mengikuti kuis, dan melihat informasi pembelajaran. Mohon dijelaskan secara singkat.",valid,teknologi pendidikan
+911,Tolong cek informasi ini: password akun kampus boleh dikirim melalui chat kepada orang yang mengaku admin.,tidak_valid,keamanan digital
+912,Bisakah chatbot menilai informasi berikut: UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi. Mohon dijelaskan secara singkat.,valid,administrasi kampus
+913,Di grup mahasiswa tertulis bahwa sKS adalah Satuan Kredit Semester yang menunjukkan beban studi suatu mata kuliah.,valid,layanan akademik
+914,"Bisakah chatbot menilai informasi berikut: Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+915,Mohon bantu periksa: mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan.,valid,layanan akademik
+916,Benarkah pendaftaran seminar resmi hanya perlu membayar ke rekening pribadi tanpa informasi penyelenggara.,tidak_valid,hoaks digital
+917,Apakah benar bahwa situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+918,Benarkah Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+919,"Di grup mahasiswa tertulis bahwa Mahasiswa sebaiknya memeriksa informasi beasiswa melalui website resmi kampus, kementerian, atau lembaga penyelenggara.",valid,beasiswa
+920,Saya mendapatkan informasi bahwa plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+921,Saya membaca kabar bahwa sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme.,valid,sumber belajar
+922,Ada informasi yang menyatakan bahwa kHS adalah Kartu Hasil Studi yang berisi nilai mata kuliah mahasiswa pada semester tertentu.,valid,ujian dan nilai
+923,Mahasiswa harus mengirim foto kartu identitas dan password email ke nomor pribadi untuk aktivasi kuliah.,tidak_valid,keamanan digital
+924,Saya mendapatkan informasi bahwa Mahasiswa tidak perlu memeriksa sumber informasi jika judul berita terlihat meyakinkan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+925,Plagiarisme adalah tindakan mengambil karya atau ide orang lain tanpa mencantumkan sumber yang semestinya.,valid,etika akademik
+926,Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi.,tidak_valid,keamanan digital
+927,Benarkah Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+928,Apakah benar bahwa Mahasiswa baru wajib transfer uang ke nomor pribadi agar bisa mendapatkan akun akademik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks akademik
+929,Apakah informasi ini valid: Daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+930,Ada informasi yang menyatakan bahwa praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung.,valid,perkuliahan
+931,Mahasiswa dapat mengisi KRS melalui tautan tidak resmi yang dibagikan di pesan berantai.,tidak_valid,hoaks akademik
+932,Saya membaca kabar bahwa Mahasiswa tidak perlu mencantumkan sumber ketika menyalin tulisan dari jurnal. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+933,Apakah informasi ini valid: Plagiarisme diperbolehkan selama tugas dikumpulkan tepat waktu. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+934,"Saya mendapatkan informasi bahwa informasi kampus yang benar biasanya memiliki sumber, kontak, dan kanal resmi yang jelas.",valid,literasi digital
+935,Praktikum membantu mahasiswa menerapkan teori ke dalam kegiatan percobaan atau praktik langsung.,valid,perkuliahan
+936,Benarkah Mahasiswa perlu memperhatikan prasyarat mata kuliah sebelum mengambil mata kuliah lanjutan. Mohon dijelaskan secara singkat.,valid,layanan akademik
+937,Apakah benar bahwa kode OTP beasiswa harus dikirim ke admin pribadi agar bantuan pendidikan dapat dicairkan.,tidak_valid,hoaks beasiswa
+938,Bisakah chatbot menilai informasi berikut: sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme.,valid,sumber belajar
+939,Benarkah informasi kelas pengganti sebaiknya dikonfirmasi kepada dosen pengampu atau program studi.,valid,perkuliahan
+940,Benarkah mahasiswa perlu menggunakan referensi ilmiah dalam penulisan laporan.,valid,sumber belajar
+941,Benarkah Parafrase tetap memerlukan sitasi apabila gagasan yang digunakan berasal dari sumber lain. Mohon dijelaskan secara singkat.,valid,etika akademik
+942,Saya mendapatkan informasi bahwa beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+943,Bisakah chatbot menilai informasi berikut: Semua pengumuman kampus dari akun anonim dapat langsung dipercaya. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+944,Ada informasi yang menyatakan bahwa akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+945,Bisakah chatbot menilai informasi berikut: Kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi. Mohon dijelaskan secara singkat.,valid,keamanan digital
+946,Ada informasi yang menyatakan bahwa beasiswa resmi hanya diberikan kepada mahasiswa yang menyebarkan pesan ke banyak grup.,tidak_valid,hoaks beasiswa
+947,Saya mendapatkan informasi bahwa Transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+948,Nilai KHS dapat dinaikkan secara otomatis melalui website tidak resmi.,tidak_valid,hoaks akademik
+949,Surat aktif kuliah biasanya digunakan sebagai bukti bahwa mahasiswa masih terdaftar aktif di perguruan tinggi.,valid,administrasi kampus
+950,Ada informasi yang menyatakan bahwa Sitasi diperlukan untuk menunjukkan sumber rujukan dan menghindari plagiarisme. Mohon dijelaskan secara singkat.,valid,sumber belajar
+951,"Asistensi praktikum biasanya membantu mahasiswa memahami prosedur, penggunaan alat, atau penyelesaian tugas praktikum.",valid,perkuliahan
+952,Bisakah chatbot menilai informasi berikut: Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+953,Mohon bantu periksa: portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+954,Apakah benar bahwa magang dapat membantu mahasiswa memperoleh pengalaman kerja dan menerapkan ilmu yang dipelajari di perkuliahan.,valid,karier mahasiswa
+955,Saya mendapatkan informasi bahwa Diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi. Mohon dijelaskan secara singkat.,valid,perkuliahan
+956,Saya membaca kabar bahwa password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+957,Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+958,Saya membaca kabar bahwa Tugas kuliah boleh sepenuhnya disalin dari internet tanpa membaca isinya. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+959,Bisakah chatbot menilai informasi berikut: informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik.,tidak_valid,hoaks beasiswa
+960,Apakah benar bahwa portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal.,tidak_valid,hoaks digital
+961,Bisakah chatbot menilai informasi berikut: mahasiswa dijamin lulus semua mata kuliah jika membayar biaya tambahan ke rekening pribadi.,tidak_valid,hoaks akademik
+962,Di grup mahasiswa tertulis bahwa uKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi.,valid,administrasi kampus
+963,Saya membaca kabar bahwa transkrip nilai memuat daftar mata kuliah dan nilai yang telah diperoleh mahasiswa selama masa studi.,valid,ujian dan nilai
+964,Mohon bantu periksa: Situs yang meminta PIN ATM untuk bantuan pendidikan dapat dipercaya jika tampilannya mirip website resmi. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+965,"Benarkah Silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan. Mohon dijelaskan secara singkat.",valid,perkuliahan
+966,Benarkah Daftar pustaka digunakan untuk mencantumkan sumber referensi yang digunakan dalam karya ilmiah. Mohon dijelaskan secara singkat.,valid,sumber belajar
+967,Tautan mencurigakan perlu dihindari jika meminta data pribadi atau mengarahkan ke domain tidak dikenal.,valid,keamanan digital
+968,Apakah informasi ini valid: password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat.,tidak_valid,keamanan digital
+969,Akun palsu yang mengatasnamakan kampus dapat menjadi sumber utama informasi akademik.,tidak_valid,hoaks digital
+970,Apakah benar bahwa Informasi beasiswa tanpa penyelenggara jelas tetap dapat dipercaya jika terlihat menarik. Mohon dijelaskan secara singkat.,tidak_valid,hoaks beasiswa
+971,Ada informasi yang menyatakan bahwa Password portal akademik boleh dibagikan kepada teman agar proses akademik lebih cepat. Mohon dijelaskan secara singkat.,tidak_valid,keamanan digital
+972,Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa.,valid,perkuliahan
+973,Mohon bantu periksa: Password akun akademik harus dijaga kerahasiaannya agar tidak disalahgunakan pihak lain. Mohon dijelaskan secara singkat.,valid,keamanan digital
+974,Apakah informasi ini valid: kode OTP tidak boleh diberikan kepada orang lain karena dapat digunakan untuk mengakses akun pribadi.,valid,keamanan digital
+975,Benarkah Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+976,"Di grup mahasiswa tertulis bahwa informasi valid biasanya memiliki sumber jelas, dapat diverifikasi, dan tidak menggunakan klaim berlebihan.",valid,literasi digital
+977,"Nilai akhir mata kuliah dapat dipengaruhi oleh tugas, kuis, praktikum, UTS, UAS, dan komponen penilaian lain.",valid,ujian dan nilai
+978,"Tolong cek informasi ini: informasi kampus yang benar biasanya memiliki sumber, kontak, dan kanal resmi yang jelas.",valid,literasi digital
+979,Apakah benar bahwa remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+980,Ada informasi yang menyatakan bahwa Presensi kuliah digunakan untuk mencatat kehadiran mahasiswa dalam kegiatan perkuliahan. Mohon dijelaskan secara singkat.,valid,perkuliahan
+981,Mohon bantu periksa: uTS adalah Ujian Tengah Semester yang biasanya digunakan untuk mengevaluasi pemahaman mahasiswa pada pertengahan semester.,valid,ujian dan nilai
+982,Tolong cek informasi ini: Dosen pembimbing akademik membantu mahasiswa dalam merencanakan studi dan menyelesaikan kendala akademik. Mohon dijelaskan secara singkat.,valid,layanan akademik
+983,Apakah informasi ini valid: Remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu. Mohon dijelaskan secara singkat.,valid,ujian dan nilai
+984,"Saya membaca kabar bahwa Organisasi mahasiswa dapat menjadi wadah pengembangan soft skill, kepemimpinan, dan kerja sama. Mohon dijelaskan secara singkat.",valid,informasi kampus
+985,Tolong cek informasi ini: remedial dapat diberikan sesuai kebijakan dosen atau program studi apabila mahasiswa belum mencapai standar tertentu.,valid,ujian dan nilai
+986,Ada informasi yang menyatakan bahwa Tugas kuliah merupakan bagian dari proses evaluasi pembelajaran mahasiswa. Mohon dijelaskan secara singkat.,valid,perkuliahan
+987,UKT adalah biaya pendidikan yang dibayarkan mahasiswa sesuai ketentuan perguruan tinggi.,valid,administrasi kampus
+988,Apakah benar bahwa mahasiswa boleh membuka link akademik dari nomor tidak dikenal tanpa memeriksa sumbernya.,tidak_valid,keamanan digital
+989,Saya membaca kabar bahwa Portal akademik resmi dapat diganti oleh link pendek yang dikirim nomor tidak dikenal. Mohon dijelaskan secara singkat.,tidak_valid,hoaks digital
+990,Mohon bantu periksa: herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif.,valid,administrasi kampus
+991,Tolong cek informasi ini: Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+992,Benarkah Mahasiswa dapat membayar jasa untuk membuat skripsi agar cepat lulus. Mohon dijelaskan secara singkat.,tidak_valid,etika akademik
+993,"Saya membaca kabar bahwa pembelajaran daring membutuhkan koneksi internet, perangkat pendukung, dan kedisiplinan mahasiswa.",valid,teknologi pendidikan
+994,"Mohon bantu periksa: informasi beasiswa resmi biasanya mencantumkan penyelenggara, persyaratan, manfaat, dan kontak yang dapat diverifikasi.",valid,beasiswa
+995,Di grup mahasiswa tertulis bahwa diskusi kelas dapat membantu mahasiswa memahami materi melalui pertukaran pendapat dan argumentasi.,valid,perkuliahan
+996,Bisakah chatbot menilai informasi berikut: mahasiswa perlu memeriksa nilai melalui portal akademik atau sumber resmi yang disediakan kampus.,valid,ujian dan nilai
+997,Mohon bantu periksa: literasi digital membantu mahasiswa mengevaluasi informasi sebelum mempercayai atau membagikannya.,valid,literasi digital
+998,Bisakah chatbot menilai informasi berikut: Semua informasi viral tentang kampus pasti benar karena banyak dibagikan. Mohon dijelaskan secara singkat.,tidak_valid,literasi digital
+999,"Apakah informasi ini valid: silabus berisi gambaran materi, capaian pembelajaran, metode penilaian, dan rencana kegiatan perkuliahan.",valid,perkuliahan
+1000,Herregistrasi adalah proses pendaftaran ulang mahasiswa agar status akademiknya tetap aktif.,valid,administrasi kampus
+1001,Kabar yang belum terbukti menyebutkan bahwa kampus bangkrut tahun ini.,tidak_valid,literasi digital
+1002,Informasi tidak resmi menyebutkan bahwa pembayaran UKT dihapus permanen mulai besok.,tidak_valid,literasi digital
+1003,Terdapat rumor bahwa mahasiswa bebas tidak masuk kuliah selama satu semester.,tidak_valid,literasi digital
+1004,Beredar kabar bahwa semua mahasiswa akan diliburkan selama 3 bulan tanpa surat resmi.,tidak_valid,literasi digital
+1005,Dosen pembimbing skripsi dapat ditemui sesuai jadwal konsultasi resmi.,valid,layanan akademik
+1006,Pesan viral menyebutkan bahwa ijazah dapat dibeli tanpa mengikuti kuliah.,tidak_valid,literasi digital
+1007,Isu yang beredar menyatakan bahwa kampus akan ditutup minggu depan.,tidak_valid,literasi digital
+1008,Beredar informasi palsu bahwa semua tugas akhir dihapus mulai semester depan.,tidak_valid,literasi digital
+1009,Pesan anonim menyatakan bahwa nilai dapat diubah dengan membayar sejumlah uang.,tidak_valid,ujian dan nilai
+1010,Katanya semua mahasiswa otomatis lulus tanpa mengikuti ujian akhir.,tidak_valid,ujian dan nilai
+1011,Kampus menyediakan layanan konseling gratis bagi mahasiswa.,valid,literasi digital
+1012,Fakultas Teknik mengadakan pelatihan AI untuk mahasiswa tingkat akhir.,valid,literasi digital
+1013,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 2.,valid,beasiswa
+1014,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 7.,valid,beasiswa
+1015,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 8.,valid,beasiswa
+1016,Informasi dari grup tidak resmi mengatakan bahwa semua dosen diberhentikan.,tidak_valid,literasi digital
+1017,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 3.,valid,beasiswa
+1018,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 1.,valid,beasiswa
+1019,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 6.,valid,beasiswa
+1020,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 5.,valid,beasiswa
+1021,Program beasiswa akademik dibuka untuk mahasiswa aktif semester 4.,valid,beasiswa
+1022,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 06-03-2008.,valid,akademik
+1023,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 19-07-2025.,valid,akademik
+1024,Perpustakaan kampus memperpanjang jam layanan hingga pukul 20.00.,valid,berita kampus
+1025,Pembayaran UKT semester ganjil dibuka mulai 04-10-1984.,valid,administrasi kampus
+1026,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 11-09-2015.,valid,akademik
+1027,Pembayaran UKT semester ganjil dibuka mulai 28-11-1980.,valid,administrasi kampus
+1028,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 17-09-1988.,valid,akademik
+1029,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 11-06-2012.,valid,akademik
+1030,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 16-04-1979.,valid,berita kampus
+1031,Pembayaran UKT semester ganjil dibuka mulai 04-10-1988.,valid,administrasi kampus
+1032,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-02-2011.,valid,berita kampus
+1033,Pembayaran UKT semester ganjil dibuka mulai 28-07-2020.,valid,administrasi kampus
+1034,Pembayaran UKT semester ganjil dibuka mulai 18-08-2008.,valid,administrasi kampus
+1035,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 08-02-1977.,valid,berita kampus
+1036,Universitas mengadakan seminar nasional di aula kampus pada 07-10-1983.,valid,berita kampus
+1037,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 30-09-1982.,valid,akademik
+1038,Universitas mengadakan seminar nasional di aula kampus pada 05-05-2012.,valid,berita kampus
+1039,Universitas mengadakan seminar nasional di aula kampus pada 28-12-2005.,valid,berita kampus
+1040,Universitas mengadakan seminar nasional di aula kampus pada 09-02-2014.,valid,berita kampus
+1041,Universitas mengadakan seminar nasional di aula kampus pada 21-11-1979.,valid,berita kampus
+1042,Universitas mengadakan seminar nasional di aula kampus pada 20-11-1983.,valid,berita kampus
+1043,Pembayaran UKT semester ganjil dibuka mulai 28-01-2004.,valid,administrasi kampus
+1044,Universitas mengadakan seminar nasional di aula kampus pada 14-02-2010.,valid,berita kampus
+1045,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 26-11-1998.,valid,berita kampus
+1046,Pembayaran UKT semester ganjil dibuka mulai 08-09-1981.,valid,administrasi kampus
+1047,Pembayaran UKT semester ganjil dibuka mulai 27-08-2012.,valid,administrasi kampus
+1048,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 22-09-1982.,valid,akademik
+1049,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 19-03-1993.,valid,akademik
+1050,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 15-09-1970.,valid,akademik
+1051,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 22-05-2005.,valid,akademik
+1052,Universitas mengadakan seminar nasional di aula kampus pada 24-08-2000.,valid,berita kampus
+1053,Universitas mengadakan seminar nasional di aula kampus pada 08-03-1975.,valid,berita kampus
+1054,Pembayaran UKT semester ganjil dibuka mulai 10-05-1997.,valid,administrasi kampus
+1055,Universitas mengadakan seminar nasional di aula kampus pada 13-05-1989.,valid,berita kampus
+1056,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 12-07-1982.,valid,akademik
+1057,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 04-04-2009.,valid,akademik
+1058,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 09-01-1991.,valid,berita kampus
+1059,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 25-08-1982.,valid,akademik
+1060,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 09-06-2024.,valid,akademik
+1061,Universitas mengadakan seminar nasional di aula kampus pada 08-04-1990.,valid,berita kampus
+1062,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 23-04-2022.,valid,akademik
+1063,Pembayaran UKT semester ganjil dibuka mulai 29-07-2021.,valid,administrasi kampus
+1064,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 25-11-2016.,valid,akademik
+1065,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 21-06-2016.,valid,berita kampus
+1066,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 07-03-1989.,valid,akademik
+1067,Universitas mengadakan seminar nasional di aula kampus pada 11-09-1997.,valid,berita kampus
+1068,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 30-11-2025.,valid,akademik
+1069,Universitas mengadakan seminar nasional di aula kampus pada 02-10-1984.,valid,berita kampus
+1070,Universitas mengadakan seminar nasional di aula kampus pada 12-10-1974.,valid,berita kampus
+1071,Universitas mengadakan seminar nasional di aula kampus pada 27-06-2011.,valid,berita kampus
+1072,Pembayaran UKT semester ganjil dibuka mulai 09-09-1989.,valid,administrasi kampus
+1073,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 08-03-1983.,valid,akademik
+1074,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-01-1985.,valid,berita kampus
+1075,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 12-01-2025.,valid,akademik
+1076,Universitas mengadakan seminar nasional di aula kampus pada 13-06-2003.,valid,berita kampus
+1077,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 23-05-1996.,valid,akademik
+1078,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 29-09-1992.,valid,akademik
+1079,Pembayaran UKT semester ganjil dibuka mulai 19-10-1978.,valid,administrasi kampus
+1080,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 24-09-1987.,valid,akademik
+1081,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 06-06-1972.,valid,akademik
+1082,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 08-03-2017.,valid,akademik
+1083,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 05-06-1985.,valid,akademik
+1084,Universitas mengadakan seminar nasional di aula kampus pada 06-04-2023.,valid,berita kampus
+1085,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 27-07-2009.,valid,akademik
+1086,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 12-08-1978.,valid,akademik
+1087,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-12-1979.,valid,akademik
+1088,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 21-05-1970.,valid,berita kampus
+1089,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 21-05-1980.,valid,akademik
+1090,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-01-1996.,valid,akademik
+1091,Universitas mengadakan seminar nasional di aula kampus pada 12-11-1995.,valid,berita kampus
+1092,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 01-06-1993.,valid,berita kampus
+1093,Universitas mengadakan seminar nasional di aula kampus pada 02-10-1973.,valid,berita kampus
+1094,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 07-12-1979.,valid,akademik
+1095,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 21-11-1990.,valid,akademik
+1096,Pembayaran UKT semester ganjil dibuka mulai 28-09-1981.,valid,administrasi kampus
+1097,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 24-04-1984.,valid,berita kampus
+1098,Universitas mengadakan seminar nasional di aula kampus pada 29-07-2022.,valid,berita kampus
+1099,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 03-10-1999.,valid,berita kampus
+1100,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 27-08-2014.,valid,akademik
+1101,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 30-06-1992.,valid,berita kampus
+1102,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 28-10-1974.,valid,akademik
+1103,Pembayaran UKT semester ganjil dibuka mulai 12-07-2020.,valid,administrasi kampus
+1104,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 26-08-2001.,valid,akademik
+1105,Pembayaran UKT semester ganjil dibuka mulai 12-02-1989.,valid,administrasi kampus
+1106,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 03-08-1979.,valid,akademik
+1107,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 21-11-1992.,valid,berita kampus
+1108,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-02-1991.,valid,berita kampus
+1109,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 20-04-1988.,valid,akademik
+1110,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 05-11-2002.,valid,berita kampus
+1111,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 24-12-1990.,valid,akademik
+1112,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 01-10-1987.,valid,berita kampus
+1113,Pembayaran UKT semester ganjil dibuka mulai 30-04-1996.,valid,administrasi kampus
+1114,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 26-06-1974.,valid,akademik
+1115,Universitas mengadakan seminar nasional di aula kampus pada 26-04-1998.,valid,berita kampus
+1116,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 11-11-2016.,valid,berita kampus
+1117,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 05-11-2013.,valid,akademik
+1118,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 04-07-2021.,valid,akademik
+1119,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 13-09-1978.,valid,akademik
+1120,Universitas mengadakan seminar nasional di aula kampus pada 27-09-1980.,valid,berita kampus
+1121,Universitas mengadakan seminar nasional di aula kampus pada 22-04-2005.,valid,berita kampus
+1122,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 19-05-1971.,valid,akademik
+1123,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 16-03-2017.,valid,akademik
+1124,Universitas mengadakan seminar nasional di aula kampus pada 20-12-1985.,valid,berita kampus
+1125,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 17-06-1992.,valid,berita kampus
+1126,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 17-03-2016.,valid,berita kampus
+1127,Universitas mengadakan seminar nasional di aula kampus pada 03-11-2019.,valid,berita kampus
+1128,Universitas mengadakan seminar nasional di aula kampus pada 31-08-1979.,valid,berita kampus
+1129,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 08-12-2004.,valid,akademik
+1130,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 12-11-2008.,valid,berita kampus
+1131,Pembayaran UKT semester ganjil dibuka mulai 03-11-1975.,valid,administrasi kampus
+1132,Universitas mengadakan seminar nasional di aula kampus pada 06-12-1978.,valid,berita kampus
+1133,Universitas mengadakan seminar nasional di aula kampus pada 18-07-2019.,valid,berita kampus
+1134,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 27-02-1984.,valid,akademik
+1135,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 01-04-1986.,valid,berita kampus
+1136,Universitas mengadakan seminar nasional di aula kampus pada 29-03-2010.,valid,berita kampus
+1137,Universitas mengadakan seminar nasional di aula kampus pada 27-01-2021.,valid,berita kampus
+1138,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 18-02-1975.,valid,berita kampus
+1139,Universitas mengadakan seminar nasional di aula kampus pada 01-06-1996.,valid,berita kampus
+1140,Pembayaran UKT semester ganjil dibuka mulai 06-03-1972.,valid,administrasi kampus
+1141,Universitas mengadakan seminar nasional di aula kampus pada 12-07-1980.,valid,berita kampus
+1142,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 18-10-2010.,valid,akademik
+1143,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 17-01-2025.,valid,akademik
+1144,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 28-12-1994.,valid,akademik
+1145,Pembayaran UKT semester ganjil dibuka mulai 08-05-1982.,valid,administrasi kampus
+1146,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-01-1984.,valid,berita kampus
+1147,Universitas mengadakan seminar nasional di aula kampus pada 17-05-1970.,valid,berita kampus
+1148,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 20-01-1973.,valid,akademik
+1149,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 16-11-1999.,valid,akademik
+1150,Universitas mengadakan seminar nasional di aula kampus pada 02-02-1974.,valid,berita kampus
+1151,Universitas mengadakan seminar nasional di aula kampus pada 18-02-1979.,valid,berita kampus
+1152,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 09-04-1982.,valid,akademik
+1153,Pembayaran UKT semester ganjil dibuka mulai 29-03-1976.,valid,administrasi kampus
+1154,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 18-01-2021.,valid,akademik
+1155,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 15-09-2009.,valid,akademik
+1156,Pembayaran UKT semester ganjil dibuka mulai 16-07-1980.,valid,administrasi kampus
+1157,Pembayaran UKT semester ganjil dibuka mulai 07-12-2018.,valid,administrasi kampus
+1158,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 24-02-2000.,valid,akademik
+1159,Universitas mengadakan seminar nasional di aula kampus pada 13-09-1998.,valid,berita kampus
+1160,Pembayaran UKT semester ganjil dibuka mulai 11-09-1999.,valid,administrasi kampus
+1161,Universitas mengadakan seminar nasional di aula kampus pada 17-11-1984.,valid,berita kampus
+1162,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 28-01-1981.,valid,berita kampus
+1163,Universitas mengadakan seminar nasional di aula kampus pada 13-05-1990.,valid,berita kampus
+1164,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 22-08-2016.,valid,berita kampus
+1165,Universitas mengadakan seminar nasional di aula kampus pada 14-12-2004.,valid,berita kampus
+1166,Universitas mengadakan seminar nasional di aula kampus pada 06-08-1980.,valid,berita kampus
+1167,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 13-08-2013.,valid,akademik
+1168,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 31-08-2005.,valid,akademik
+1169,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 05-10-2015.,valid,akademik
+1170,Universitas mengadakan seminar nasional di aula kampus pada 17-06-1993.,valid,berita kampus
+1171,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 20-10-2017.,valid,berita kampus
+1172,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 20-01-1990.,valid,akademik
+1173,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 02-09-2005.,valid,berita kampus
+1174,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 25-04-2001.,valid,berita kampus
+1175,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 10-05-2002.,valid,akademik
+1176,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 26-01-2002.,valid,akademik
+1177,Pembayaran UKT semester ganjil dibuka mulai 10-07-1976.,valid,administrasi kampus
+1178,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 25-05-2023.,valid,akademik
+1179,Universitas mengadakan seminar nasional di aula kampus pada 07-06-1995.,valid,berita kampus
+1180,Universitas mengadakan seminar nasional di aula kampus pada 11-04-2000.,valid,berita kampus
+1181,Pembayaran UKT semester ganjil dibuka mulai 19-05-1991.,valid,administrasi kampus
+1182,Pembayaran UKT semester ganjil dibuka mulai 31-01-2005.,valid,administrasi kampus
+1183,Universitas mengadakan seminar nasional di aula kampus pada 27-10-2009.,valid,berita kampus
+1184,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 03-03-2010.,valid,akademik
+1185,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 26-06-2003.,valid,akademik
+1186,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 15-04-1999.,valid,akademik
+1187,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 19-04-1971.,valid,akademik
+1188,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 09-05-1986.,valid,akademik
+1189,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 03-05-2003.,valid,akademik
+1190,Pembayaran UKT semester ganjil dibuka mulai 13-07-2009.,valid,administrasi kampus
+1191,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-03-2007.,valid,akademik
+1192,Universitas mengadakan seminar nasional di aula kampus pada 19-05-2022.,valid,berita kampus
+1193,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 01-03-2009.,valid,berita kampus
+1194,Universitas mengadakan seminar nasional di aula kampus pada 16-10-1971.,valid,berita kampus
+1195,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 29-10-2004.,valid,berita kampus
+1196,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 21-08-1983.,valid,akademik
+1197,Pembayaran UKT semester ganjil dibuka mulai 25-04-2022.,valid,administrasi kampus
+1198,Universitas mengadakan seminar nasional di aula kampus pada 30-10-1988.,valid,berita kampus
+1199,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 12-06-1996.,valid,akademik
+1200,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 11-04-2005.,valid,akademik
+1201,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 22-07-2012.,valid,berita kampus
+1202,Pembayaran UKT semester ganjil dibuka mulai 03-07-2009.,valid,administrasi kampus
+1203,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 03-09-1985.,valid,akademik
+1204,Pembayaran UKT semester ganjil dibuka mulai 21-12-2009.,valid,administrasi kampus
+1205,Pembayaran UKT semester ganjil dibuka mulai 07-04-2018.,valid,administrasi kampus
+1206,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 06-07-1974.,valid,akademik
+1207,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 06-11-1978.,valid,berita kampus
+1208,Pembayaran UKT semester ganjil dibuka mulai 18-07-1990.,valid,administrasi kampus
+1209,Pembayaran UKT semester ganjil dibuka mulai 17-11-1975.,valid,administrasi kampus
+1210,Pembayaran UKT semester ganjil dibuka mulai 02-04-1992.,valid,administrasi kampus
+1211,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 10-02-2022.,valid,berita kampus
+1212,Pembayaran UKT semester ganjil dibuka mulai 05-02-1970.,valid,administrasi kampus
+1213,Pembayaran UKT semester ganjil dibuka mulai 31-12-1985.,valid,administrasi kampus
+1214,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 13-06-1982.,valid,berita kampus
+1215,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 14-06-2015.,valid,berita kampus
+1216,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 19-01-2006.,valid,akademik
+1217,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 17-05-2001.,valid,akademik
+1218,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 25-11-1970.,valid,berita kampus
+1219,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 18-04-2014.,valid,akademik
+1220,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 25-11-1980.,valid,berita kampus
+1221,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 26-05-1995.,valid,berita kampus
+1222,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 25-05-1999.,valid,akademik
+1223,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 02-01-1999.,valid,akademik
+1224,Pembayaran UKT semester ganjil dibuka mulai 24-06-2014.,valid,administrasi kampus
+1225,Pembayaran UKT semester ganjil dibuka mulai 26-11-1979.,valid,administrasi kampus
+1226,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 10-01-1974.,valid,akademik
+1227,Universitas mengadakan seminar nasional di aula kampus pada 27-10-1991.,valid,berita kampus
+1228,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-01-2004.,valid,berita kampus
+1229,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 07-06-2000.,valid,berita kampus
+1230,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 15-05-1984.,valid,akademik
+1231,Universitas mengadakan seminar nasional di aula kampus pada 12-03-1995.,valid,berita kampus
+1232,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 02-06-2011.,valid,akademik
+1233,Universitas mengadakan seminar nasional di aula kampus pada 25-01-2001.,valid,berita kampus
+1234,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 15-01-2010.,valid,akademik
+1235,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 05-01-1986.,valid,akademik
+1236,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 20-04-1995.,valid,akademik
+1237,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 14-11-1991.,valid,akademik
+1238,Pembayaran UKT semester ganjil dibuka mulai 24-06-1994.,valid,administrasi kampus
+1239,Pembayaran UKT semester ganjil dibuka mulai 29-07-2001.,valid,administrasi kampus
+1240,Universitas mengadakan seminar nasional di aula kampus pada 10-02-1978.,valid,berita kampus
+1241,Pembayaran UKT semester ganjil dibuka mulai 26-01-1991.,valid,administrasi kampus
+1242,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 08-07-2001.,valid,akademik
+1243,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 10-12-1979.,valid,akademik
+1244,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 17-07-1995.,valid,akademik
+1245,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 27-01-2021.,valid,akademik
+1246,Universitas mengadakan seminar nasional di aula kampus pada 17-12-1973.,valid,berita kampus
+1247,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 05-04-2015.,valid,berita kampus
+1248,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 16-09-2003.,valid,akademik
+1249,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 04-08-2025.,valid,akademik
+1250,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 21-01-2002.,valid,akademik
+1251,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 25-07-1978.,valid,akademik
+1252,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 14-07-1998.,valid,akademik
+1253,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-01-1985.,valid,akademik
+1254,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 12-10-1997.,valid,akademik
+1255,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 20-05-1980.,valid,akademik
+1256,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 31-07-1982.,valid,akademik
+1257,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 18-12-2005.,valid,akademik
+1258,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 22-08-1992.,valid,berita kampus
+1259,Pembayaran UKT semester ganjil dibuka mulai 12-10-1992.,valid,administrasi kampus
+1260,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 19-11-1995.,valid,berita kampus
+1261,Universitas mengadakan seminar nasional di aula kampus pada 02-09-2004.,valid,berita kampus
+1262,Pembayaran UKT semester ganjil dibuka mulai 15-02-2022.,valid,administrasi kampus
+1263,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 20-07-2021.,valid,akademik
+1264,Universitas mengadakan seminar nasional di aula kampus pada 01-12-1971.,valid,berita kampus
+1265,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 04-05-2018.,valid,akademik
+1266,Universitas mengadakan seminar nasional di aula kampus pada 02-10-2008.,valid,berita kampus
+1267,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 01-08-1984.,valid,berita kampus
+1268,Pembayaran UKT semester ganjil dibuka mulai 19-11-2024.,valid,administrasi kampus
+1269,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 12-08-1985.,valid,akademik
+1270,Universitas mengadakan seminar nasional di aula kampus pada 10-12-1998.,valid,berita kampus
+1271,Universitas mengadakan seminar nasional di aula kampus pada 21-01-1986.,valid,berita kampus
+1272,Pembayaran UKT semester ganjil dibuka mulai 06-05-1992.,valid,administrasi kampus
+1273,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 11-03-2002.,valid,berita kampus
+1274,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 19-05-1971.,valid,berita kampus
+1275,Universitas mengadakan seminar nasional di aula kampus pada 28-06-1996.,valid,berita kampus
+1276,Universitas mengadakan seminar nasional di aula kampus pada 11-10-1994.,valid,berita kampus
+1277,Universitas mengadakan seminar nasional di aula kampus pada 26-02-1974.,valid,berita kampus
+1278,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 16-08-1972.,valid,akademik
+1279,Pembayaran UKT semester ganjil dibuka mulai 23-05-1995.,valid,administrasi kampus
+1280,Pembayaran UKT semester ganjil dibuka mulai 23-02-2022.,valid,administrasi kampus
+1281,Universitas mengadakan seminar nasional di aula kampus pada 11-07-1977.,valid,berita kampus
+1282,Pembayaran UKT semester ganjil dibuka mulai 31-05-2001.,valid,administrasi kampus
+1283,Universitas mengadakan seminar nasional di aula kampus pada 14-05-2011.,valid,berita kampus
+1284,Pembayaran UKT semester ganjil dibuka mulai 14-06-1982.,valid,administrasi kampus
+1285,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 26-02-1976.,valid,berita kampus
+1286,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 01-02-2012.,valid,akademik
+1287,Pembayaran UKT semester ganjil dibuka mulai 23-06-1993.,valid,administrasi kampus
+1288,Universitas mengadakan seminar nasional di aula kampus pada 26-01-2012.,valid,berita kampus
+1289,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 30-04-2007.,valid,akademik
+1290,Pembayaran UKT semester ganjil dibuka mulai 17-12-2024.,valid,administrasi kampus
+1291,Pembayaran UKT semester ganjil dibuka mulai 08-04-2015.,valid,administrasi kampus
+1292,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 29-01-1986.,valid,berita kampus
+1293,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-09-1974.,valid,akademik
+1294,Universitas mengadakan seminar nasional di aula kampus pada 17-04-2011.,valid,berita kampus
+1295,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 05-09-2014.,valid,berita kampus
+1296,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 23-01-2010.,valid,akademik
+1297,Pembayaran UKT semester ganjil dibuka mulai 10-09-1991.,valid,administrasi kampus
+1298,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 28-03-1998.,valid,berita kampus
+1299,Pembayaran UKT semester ganjil dibuka mulai 15-11-2022.,valid,administrasi kampus
+1300,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 30-12-2006.,valid,berita kampus
+1301,Pembayaran UKT semester ganjil dibuka mulai 26-05-2012.,valid,administrasi kampus
+1302,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 13-01-2020.,valid,berita kampus
+1303,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 04-01-2026.,valid,akademik
+1304,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 21-03-2026.,valid,akademik
+1305,Universitas mengadakan seminar nasional di aula kampus pada 04-08-1970.,valid,berita kampus
+1306,Pembayaran UKT semester ganjil dibuka mulai 04-02-2014.,valid,administrasi kampus
+1307,Pembayaran UKT semester ganjil dibuka mulai 17-10-2019.,valid,administrasi kampus
+1308,Universitas mengadakan seminar nasional di aula kampus pada 03-07-2020.,valid,berita kampus
+1309,Universitas mengadakan seminar nasional di aula kampus pada 10-05-2005.,valid,berita kampus
+1310,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 14-04-2014.,valid,akademik
+1311,Pembayaran UKT semester ganjil dibuka mulai 23-11-2008.,valid,administrasi kampus
+1312,Pembayaran UKT semester ganjil dibuka mulai 10-03-2005.,valid,administrasi kampus
+1313,Pembayaran UKT semester ganjil dibuka mulai 02-02-1974.,valid,administrasi kampus
+1314,Pembayaran UKT semester ganjil dibuka mulai 17-04-1994.,valid,administrasi kampus
+1315,Universitas mengadakan seminar nasional di aula kampus pada 06-04-2019.,valid,berita kampus
+1316,Pembayaran UKT semester ganjil dibuka mulai 07-08-1987.,valid,administrasi kampus
+1317,Universitas mengadakan seminar nasional di aula kampus pada 05-11-1984.,valid,berita kampus
+1318,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 05-09-1992.,valid,akademik
+1319,Universitas mengadakan seminar nasional di aula kampus pada 05-04-2018.,valid,berita kampus
+1320,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 12-02-1982.,valid,berita kampus
+1321,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 16-10-1981.,valid,berita kampus
+1322,Pembayaran UKT semester ganjil dibuka mulai 22-06-1975.,valid,administrasi kampus
+1323,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 04-02-1995.,valid,akademik
+1324,Mahasiswa diwajibkan mengisi KRS sebelum tanggal 12-07-2021.,valid,akademik
+1325,Pengumuman resmi dari kampus menyatakan bahwa jadwal ujian semester dimulai pada 10-12-1994.,valid,akademik
+1326,Pembayaran UKT semester ganjil dibuka mulai 11-05-2000.,valid,administrasi kampus
+1327,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 04-10-2008.,valid,berita kampus
+1328,Kegiatan wisuda akan dilaksanakan di gedung utama universitas pada 22-12-1988.,valid,berita kampus
+1329,Pembayaran UKT semester ganjil dibuka mulai 04-07-1988.,valid,administrasi kampus
